@@ -1,4 +1,4 @@
-﻿// ====== Models (نفس الموجود في ListGenerator بتاع الكورس) ======
+﻿
 public class Product
 {
     public int ProductID { get; set; }
